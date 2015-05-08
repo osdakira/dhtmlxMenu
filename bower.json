@@ -1,0 +1,15 @@
+{
+  "name": "dhtmlxMenu",
+  "version": "4.2.0",
+  "homepage": "",
+  "description": "An open source JavaScript Gantt chart that helps you illustrate a project schedule in a nice-looking chart.",
+  "main": [
+    "codebase/dhtmlxmenu.js",
+    "codebase/dhtmlxmenu.css"
+  ],
+  "keywords": [
+    "dhtmlx",
+    "menu"
+  ],
+  "license": "GPL"
+}
