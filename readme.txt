@@ -1,3 +1,3 @@
-dhtmlxSuite v.4.2 Standard edition
+dhtmlxMenu v.4.2 Standard edition
 
 (c) Dinamenta, UAB.
